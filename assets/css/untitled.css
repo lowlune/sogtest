@@ -1,0 +1,20 @@
+hr {
+  border-color: #3976b2 !important;
+}
+
+.bg-primary {
+  background-color: #3976b2 !important;
+}
+
+a:hover {
+  color: #3976b2 !important;
+}
+
+#mainNav.navbar-shrink .navbar-brand, #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
+  color: #3976b2 !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
+  color: #3976b2 !important;
+}
+
